@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "email": "mef1991.fonseca@gmail.com",
+      "name": "Martin",
+      "lastname": "Fonseca",
+      "age": "31",
+      "alias": "Tincho",
+      "avatar": "Kena"
+    },
+    "text": "Nuevo mensajes!",
+    "timestamp": "28/11/2022, 10:35:07"
+  },
+  {
+    "id": 2,
+    "author": {
+      "email": "tecnico_pcsalta@hotmail.com",
+      "name": "Tecnico",
+      "lastname": "PC",
+      "age": "25",
+      "alias": "Reparacion",
+      "avatar": "Tech"
+    },
+    "text": "Hola",
+    "timestamp": "28/11/2022, 13:39:18"
+  },
+  {
+    "id": 3,
+    "author": {
+      "email": "tecnico_pcsalta@hotmail.com",
+      "name": "Tecnico",
+      "lastname": "PC",
+      "age": "25",
+      "alias": "Reparacion",
+      "avatar": "Tech"
+    },
+    "text": "Buenos dias",
+    "timestamp": "28/11/2022, 13:39:34"
+  },
+  {
+    "id": 4,
+    "author": {
+      "email": "cuervo6@hotmail.com",
+      "name": "Exe",
+      "lastname": "Lopez",
+      "age": "40",
+      "alias": "E",
+      "avatar": "Eq"
+    },
+    "text": "Hola",
+    "timestamp": "28/11/2022, 14:43:59"
+  },
+  {
+    "id": 5,
+    "author": {
+      "email": "c6@outlook.com",
+      "name": "cuervo",
+      "lastname": "seis",
+      "age": "12",
+      "alias": "MF",
+      "avatar": "FM"
+    },
+    "text": "Hola buenas tardes a todes!",
+    "timestamp": "28/11/2022, 14:58:57"
+  },
+  {
+    "id": 6,
+    "author": {
+      "email": "tecnico_pcsalta@hotmail.com",
+      "name": "tecnico",
+      "lastname": "PC",
+      "age": "10",
+      "alias": "PCusers",
+      "avatar": "PC"
+    },
+    "text": "Hola",
+    "timestamp": "17/1/2023, 15:59:12"
+  },
+  {
+    "id": 7,
+    "author": {
+      "email": "mef1991.fonseca@gmail.com",
+      "name": "Martin",
+      "lastname": "Fonseca",
+      "age": "32",
+      "alias": "Tincho",
+      "avatar": "TF"
+    },
+    "text": "Hola buenas!!!",
+    "timestamp": "17/1/2023, 15:59:56"
+  },
+  {
+    "id": 8,
+    "author": {
+      "email": "cuervo6@hotmail.com",
+      "name": "Exe",
+      "lastname": "Fonseca",
+      "age": "16",
+      "alias": "Tin",
+      "avatar": "TinFo"
+    },
+    "text": "Hola",
+    "timestamp": "18/1/2023, 13:29:02"
+  },
+  {
+    "id": 9,
+    "author": {
+      "email": "fonseca_martin@hotmail.com",
+      "name": "Tincho",
+      "lastname": "Fonseca",
+      "age": "45",
+      "alias": "tincho",
+      "avatar": "tin"
+    },
+    "text": "Hola buenas",
+    "timestamp": "18/1/2023, 13:29:48"
+  }
+]
